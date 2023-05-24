@@ -137,15 +137,9 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 ```
 
-
 ## OUTPUT :
-    /**PLOTS of Output in hidden space**/
-    /Classification results
-    
-    ![image](https://github.com/Suhail1263/Experiment-5-Implementation-of-XOR-using-RBF/assets/113534309/0c963882-a834-42bc-a6a8-9eebeaa5ca63)
-
-    ![image](https://github.com/Suhail1263/Experiment-5-Implementation-of-XOR-using-RBF/assets/113534309/ac0887a1-2a35-4689-a00a-9a68b79a58c6)
-
+![image](https://github.com/Suhail1263/Experiment-5-Implementation-of-XOR-using-RBF/assets/113534309/7a4ae3d9-9b21-4afb-80a9-bd4257a847a3)
+![image](https://github.com/Suhail1263/Experiment-5-Implementation-of-XOR-using-RBF/assets/113534309/6768aaa4-3387-430b-bed6-0676d007df2a)
 
 ## RESULT:
       Thus, the implemenatation of XOR using RBF is implemented successfully.
